@@ -4,23 +4,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BLlyZEF7dsA4Js2Hv3YO-1" target="BLlyZEF7dsA4Js2Hv3YO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BLlyZEF7dsA4Js2Hv3YO-1" value="Login/Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-2" value="Login/Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-2" value="Feedback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-3" value="Login/Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BLlyZEF7dsA4Js2Hv3YO-3" target="BLlyZEF7dsA4Js2Hv3YO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-3" value="User Menggunakan Filter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-4" value="Login/Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BLlyZEF7dsA4Js2Hv3YO-4" target="BLlyZEF7dsA4Js2Hv3YO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-4" value="Tampilkan Maps, Search, dan Filter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-5" value="Login/Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="120" height="40" as="geometry" />
+        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BLlyZEF7dsA4Js2Hv3YO-5" target="BLlyZEF7dsA4Js2Hv3YO-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-6" value="Login/Sign Up" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="220" width="120" height="40" as="geometry" />
+        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-5" value="Tampilkan Rekomendasi sesuai Filter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BLlyZEF7dsA4Js2Hv3YO-6" target="BLlyZEF7dsA4Js2Hv3YO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BLlyZEF7dsA4Js2Hv3YO-6" value="Menampilkan hasil dan deskripsi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="160" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
